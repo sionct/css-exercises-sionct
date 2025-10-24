@@ -2,3 +2,13 @@
   background-color: rgb(255, 171, 184);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#number2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#number4 {
+  background-color: hsl(120, 83%, 75%);
+  font-weight: bold;
+}
