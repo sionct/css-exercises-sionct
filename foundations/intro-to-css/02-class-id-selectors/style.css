@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.pink-bg {
+  background-color: rgb(255, 171, 184);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
